@@ -1,0 +1,12 @@
+{
+    "IN_TRAIN_DATA_PATH":"raw/sample_train",
+    "IN_VALIDATE_DATA_PATH":"raw/sample_val",
+    "OUT_TRAIN_DATA_PATH": "clean/sample_train",
+    "OUT_VALIDATE_DATA_PATH":"clean/sample_val",
+    "TRAIN_LABEL_PATH":"raw/train.csv",
+    "VAL_LABEL_PATH":"raw/train.csv",
+    "FUSION_SNAPSHOT_PATH":"fusion_snapshot/0.npz",
+    "IN_TEST_DATA_PATH":"/mnt/Data/kaggle2/Second Annual Data Science Bowl/test",
+    "OUT_TEST_DATA_PATH":"/home/liao/data/test2/",
+    "SUBMIT_PATH":"submit.csv"
+}
